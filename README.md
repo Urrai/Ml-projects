@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection using Linear Regression
+# 💳 Credit Card Fraud Detection using machine learning Linear Regression
 
 ## 🧠 Overview
 
